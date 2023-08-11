@@ -1,5 +1,5 @@
 ## Hello, my name is Emmanuel Lima.
-- 📚 Currently Studying Java-script/React Native/Node Js
+- 📚 Currently Studying Java-script/React JS/Node Js
 
 - Some of my skills:
 
