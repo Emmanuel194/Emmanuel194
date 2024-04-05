@@ -18,18 +18,10 @@
          <img align="center" alt="emmanuel-expressjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
 
 
-         
-
-          
-          
-          
-          
-           
-          
-         
           
 </div> 
-  
+
+  ![snake animation](https://github.com/<Emmanuel194>/<Emmanuel194>/blob/output/github-contribution-grid-snake2.svg)
   ##
 
 
