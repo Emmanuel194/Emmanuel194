@@ -1,6 +1,6 @@
-## Hello, my name is Emmanuel Lima. I live in Brazil today!
+ Hello, my name is Emmanuel Lima. I live in Brazil today!
 
-I'm a Software Engineer with over 4 years of experience, focused on working with challenging open source projects and a lifelong learning
+💻 I'm a Software Engineer with over 4 years of experience, focused on working with challenging open source projects and a lifelong learning
 
 - Some of my skills:
 
