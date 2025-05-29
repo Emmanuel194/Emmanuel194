@@ -1,5 +1,6 @@
-## Hello, my name is Emmanuel Lima.
-- 📚 Currently Studying Java-script/React JS/Node Js
+## Hello, my name is Emmanuel Lima. I live in Brazil today!
+
+I'm a Software Engineer with over 4 years of experience, focused on working with challenging open source projects and a lifelong learning
 
 - Some of my skills:
 
@@ -27,7 +28,7 @@
   
 <div>
   <a href="https://www.instagram.com/emmanuellima09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emmanuel-lima-11ba8120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/emmanuellimaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
  ## Contact
